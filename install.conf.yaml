@@ -2,6 +2,9 @@
 
 - link:
     ~/.gitconfig: gitconfig
+    ~/.irssi/config:
+        path: irssi/config
+        create: true
     ~/.ssh/config:
         path: ssh/config
         create: true
